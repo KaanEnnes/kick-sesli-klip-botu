@@ -1,0 +1,12 @@
+# Gizli bilgiler — ASLA commit etme (token, secret)
+.env
+
+# Büyük/indirilen dosyalar
+model/
+bin/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
